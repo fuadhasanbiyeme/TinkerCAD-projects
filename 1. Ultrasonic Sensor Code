@@ -30,3 +30,6 @@ void loop()
   Serial.print("Distance: ");
   Serial.println(distance);
 }
+
+
+![Image](https://github.com/user-attachments/assets/46701157-0178-4d47-bc2d-46f5b244ccda)
